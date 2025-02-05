@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**levicap/levicap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Welcome to My GitHub Profile! 👋
 
 Hello, I'm **Ahmed Ben Yahia**, a passionate **Full Stack Developer** based in **Sfax, Tunisia**. I specialize in building web applications using modern technologies, and I'm always excited to work on new projects and collaborate with other developers.
@@ -59,3 +54,10 @@ Hello, I'm **Ahmed Ben Yahia**, a passionate **Full Stack Developer** based in *
 ---
 
 Thank you for visiting my GitHub profile! 😄
+
+
+<!--
+**levicap/levicap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+=
