@@ -10,7 +10,7 @@ Hello, I'm **Ahmed Ben Yahia**, a passionate **Full Stack Developer** based in *
 - 🌱 Learning and exploring **Spring Boot** for backend development
 - 👯 Looking to collaborate on full-stack applications, **React**, **Node.js**, and **JavaScript/TypeScript** projects
 - 💬 Ask me about **React**, **Express**, **MongoDB**, **SQL**, and **Next.js**
-- 📫 How to reach me: [Email Address] / [LinkedIn Profile]
+- 📫 How to reach me: ahmedbenyahia654@gmail.com
 - ⚡ Fun fact: I enjoy building efficient and scalable solutions for real-world problems.
 
 ---
@@ -39,17 +39,12 @@ Hello, I'm **Ahmed Ben Yahia**, a passionate **Full Stack Developer** based in *
 
 ---
 
-## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedbenyahia&show_icons=true&count_private=true&hide=prs)
-
----
 
 ## 📣 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/ahmedbenyahia)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Website](https://your-website.com)
+- [Twitter](https://twitter.com/ahmedbenyahia)
 
 ---
 
