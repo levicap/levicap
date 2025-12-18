@@ -1,58 +1,76 @@
-# Welcome to My GitHub Profile! 👋
+# ⚔️ Ahmed Ben Yahia — Full-Stack & Automation Engineer
 
-Hello, I'm **Ahmed Ben Yahia**, a passionate **Full Stack Developer** based in **Sfax, Tunisia**. I specialize in building web applications using modern technologies, and I'm always excited to work on new projects and collaborate with other developers.
+Building scalable systems, automated workflows, and modern web applications.  
+From idea → architecture → production.
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on various **React**, **Next.js**, and **Nest.js** projects
-- 🌱 Learning and exploring **Spring Boot** for backend development
-- 👯 Looking to collaborate on full-stack applications, **React**, **Node.js**, and **JavaScript/TypeScript** projects
-- 💬 Ask me about **React**, **Express**, **MongoDB**, **SQL**, and **Next.js**
-- 📫 How to reach me: ahmedbenyahia654@gmail.com
-- ⚡ Fun fact: I enjoy building efficient and scalable solutions for real-world problems.
+📍 Sfax, Tunisia | 🌍 Remote-ready
 
 ---
 
-## 📚 Skills
+## 🧠 Who Am I
 
-- **Programming Languages**: JavaScript, TypeScript, Java, SQL
-- **Frontend**: React, Next.js, HTML, CSS, TailwindCSS
-- **Backend**: Express.js, NestJS, Spring Boot
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Deployment**: Docker, Heroku, Netlify
+I’m a **Full-Stack & Automation Engineer** who enjoys turning complex problems into clean, efficient systems.
 
----
+I work across the full stack — frontend, backend, databases — and level things up with **workflow automation**, **API orchestration**, and **infrastructure-ready code**.
 
-## 🔧 Technologies & Tools
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-0068A5?style=flat&logo=sql&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+> I don’t just build apps. I build **systems that work while you sleep**.
 
 ---
 
+## ⚡ Current Focus
 
-
-## 📣 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/ahmedbenyahia)
-- [Twitter](https://twitter.com/ahmedbenyahia)
+- 🧩 Building **end-to-end applications** with React & Next.js  
+- 🔄 Designing **automation workflows** using **n8n** & webhooks  
+- 🧠 Backend architecture with **NestJS** & **Spring Boot**  
+- 🗄️ Data-driven systems using **MongoDB, SQL & Supabase**  
+- ☁️ Containerized & production-ready deployments with **Docker**
 
 ---
 
-Thank you for visiting my GitHub profile! 😄
+## 🛠️ Tech Stack
 
+### Frontend
+- React · Next.js  
+- Tailwind CSS · HTML · CSS  
 
-<!--
-**levicap/levicap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend
+- Node.js · Express  
+- NestJS · Spring Boot  
 
+### Databases
+- MongoDB  
+- MySQL · PostgreSQL  
+- Supabase  
 
-=
+### Automation & Integrations
+- n8n  
+- Webhooks · REST APIs  
+- Stripe · Google APIs · Email/SMS services  
+
+### DevOps & Tools
+- Docker  
+- Git · GitHub  
+- Linux · CI/CD basics  
+
+---
+
+## 🧬 What I’m Good At
+
+- Designing **clean backend architectures**
+- Building **scalable APIs**
+- Automating repetitive workflows
+- Integrating third-party services
+- Turning business logic into maintainable code
+
+---
+
+## 📫 Contact
+
+- 📧 **Email**: ahmedbenyahia654@gmail.com  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/ahmedbenyahia  
+- 🐦 **Twitter/X**: https://twitter.com/ahmedbenyahia  
+
+---
+
+> _“Level up every day. Ship relentlessly.”_
+
