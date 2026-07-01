@@ -47,18 +47,21 @@ I work across the entire stack — frontend, backend, databases — and level th
 ```txt
 🧩  Building end-to-end applications with React & Next.js
 🔄  Designing automation workflows using n8n & webhooks
+🤖  Building RAG pipelines with LangChain & LangGraph
 🧠  Backend architecture with NestJS & Spring Boot
 🗄️  Data-driven systems using MongoDB, SQL & Supabase
-☁️  Containerized, production-ready deployments with Docker
+☁️  Containerized deployments with Docker, Kubernetes & GitHub Actions
 ```
 
 <br/>
+
+---
 
 ### 🛠️ Tech Stack
 
 <table align="center" border="0">
 <tr>
-<td align="center" width="120"><b>Frontend</b></td>
+<td align="center" width="140"><b>Frontend</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
 </td>
@@ -76,34 +79,44 @@ I work across the entire stack — frontend, backend, databases — and level th
 </td>
 </tr>
 <tr>
-<td align="center"><b>Automation</b></td>
+<td align="center"><b>AI & Automation</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=n8n,stripe,gmail" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-2E2E2E?style=for-the-badge&logo=graphql&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-6E56CF?style=for-the-badge&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge&logo=webhook&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td align="center"><b>DevOps &amp; Tools</b></td>
+<td align="center"><b>DevOps & Tools</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github,linux,vscode,postman" />
 </td>
 </tr>
 </table>
 
 <br/>
 
+---
+
 ### 🧬 What I'm Good At
 
 <div align="center">
 
-| 🏗️ Architecture | ⚙️ Automation | 🔌 Integrations |
-|---|---|---|
-| Clean, scalable backend design | Repetitive workflow elimination | Third-party APIs & webhooks |
-| RESTful API design at scale | n8n orchestration pipelines | Stripe · Google APIs · Email/SMS |
-| Business logic → maintainable code | CI/CD basics & Docker pipelines | Auth, payments, notifications |
+| 🏗️ Architecture | ⚙️ Automation | 🔌 Integrations | 🤖 AI Engineering |
+|---|---|---|---|
+| Clean, scalable backend design | Repetitive workflow elimination | Third-party APIs & webhooks | RAG pipelines end-to-end |
+| RESTful API design at scale | n8n orchestration pipelines | Stripe · Google APIs · Email/SMS | LangChain agent design |
+| Business logic → maintainable code | CI/CD basics & Docker pipelines | Auth, payments, notifications | LangGraph multi-step reasoning |
 
 </div>
 
 <br/>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -139,4 +152,3 @@ I work across the entire stack — frontend, backend, databases — and level th
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
-
